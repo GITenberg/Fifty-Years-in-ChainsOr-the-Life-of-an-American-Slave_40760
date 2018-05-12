@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40810'
     url: http://www.gutenberg.org/2009/agents/40810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40760#Fifty-Years-in-ChainsOr-the-Life-of-an-American-Slave
 gutenberg_issued: '2012-09-14'
 gutenberg_type: Text
 identifiers:

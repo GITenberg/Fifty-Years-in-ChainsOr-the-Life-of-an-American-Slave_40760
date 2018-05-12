@@ -1,0 +1,29 @@
+_repo: Fifty-Years-in-ChainsOr-the-Life-of-an-American-Slave_40760
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40760-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ball, Charles
+    gutenberg_agent_id: '40810'
+    url: http://www.gutenberg.org/2009/agents/40810
+description: ''
+gutenberg_issued: '2012-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Georgia -- History'
+- !lcsh 'African Americans -- Biography'
+- !lcsh 'Slavery -- South Carolina -- History'
+- !lcsh 'Ball, Charles, 1781?-'
+- !lcc 'E300'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'Slavery -- Maryland -- History'
+title: Fifty Years in Chains; or, the Life of an American Slave
+url: http://www.gutenberg.org/ebooks/40760
